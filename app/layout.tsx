@@ -19,7 +19,7 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <head>
-        <link rel="icon" href="/jsm-logo.png" sizes="any" />
+        <link rel="icon" href="/https://imgur.com/8h8FIqj" sizes="any" />
       </head>
       <body className={inter.className}>
         <ThemeProvider
